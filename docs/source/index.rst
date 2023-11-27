@@ -14,5 +14,6 @@ Spis treści
 
 .. toctree::
 
+   test
    Składnia RtD
    O Autorze

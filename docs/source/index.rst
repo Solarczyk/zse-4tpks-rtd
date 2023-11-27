@@ -10,7 +10,7 @@ na platformie Read The Docs.
 Odwiedź stronę :doc:`Składnia RtD` by poznać składnię programu Read the docs
 
 Spis treści
---------
+===========
 
 .. toctree::
 

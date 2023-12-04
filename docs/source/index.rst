@@ -13,6 +13,7 @@ Odwiedź stronę :doc:`Składnia RtD` by poznać składnię programu Read the do
 .. toctree::
    :maxdepth: 1
 
+   Składnia RsT
    O Autorze
 
 

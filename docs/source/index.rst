@@ -10,11 +10,9 @@ na platformie Read The Docs.
 Odwiedź stronę :doc:`Składnia RtD` by poznać składnię programu Read the docs
 
 
-
 .. toctree::
+   :maxdepth: 1
 
-   test
-   Składnia RtD
    O Autorze
 
 

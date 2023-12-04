@@ -9,8 +9,7 @@ na platformie Read The Docs.
 
 Odwiedź stronę :doc:`Składnia RtD` by poznać składnię programu Read the docs
 
-Spis treści
-===========
+
 
 .. toctree::
 
@@ -19,52 +18,48 @@ Spis treści
    O Autorze
 
 
-
 Składnia RsT
-============
+------------
 
 
-**Nagłówek tekstowy poziomu I**
+Nagłówek tekstowy poziomu I
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
    Nagłówek
    ========
 
-Nagłówek
-========
 
-**Nagłówek tekstowy poziomu II**
+Nagłówek tekstowy poziomu II
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
    Nagłówek
    --------
 
-Nagłówek
---------
    
-**Nagłówek tekstowy poziomu III**
+Nagłówek tekstowy poziomu III
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
    Nagłówek
    ~~~~~~~~
 
-Nagłówek
-~~~~~~~~
 
-**Nagłówek tekstowy poziomu IV**
+Nagłówek tekstowy poziomu IV
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
    Nagłówek
    ^^^^^^^^
 
-Nagłówek
-^^^^^^^^
 
-**Akapit tekstowy**
+Akapit tekstowy
+~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -72,7 +67,8 @@ Nagłówek
 
 Akapit tekstowy
 
-**Akapit informacyjny - Note**
+Akapit informacyjny - Note
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -84,7 +80,8 @@ Akapit tekstowy
 
    Akapit informacyjny
 
-**Akapit informacyjny - Tip**
+Akapit informacyjny - Tip
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -96,7 +93,8 @@ Akapit tekstowy
 
    Akapit informacyjny
 
-**Fragment kodu - liniowy**
+Fragment kodu - liniowy
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -105,7 +103,8 @@ Akapit tekstowy
 
 ``Fragment kodu``
 
-**Fragment kodu - blokowy**
+Fragment kodu - blokowy
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -113,19 +112,22 @@ Akapit tekstowy
 
           Fragment kodu
 
-**Odnośnik wewnętrzny (w obrębie dokumentacji)**
+Odnośnik wewnętrzny (w obrębie dokumentacji)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
        The output of this line has no spaces at the beginning.
 
-**Odnośnik zewnętrzny (do innego serwisu)**
+Odnośnik zewnętrzny (do innego serwisu)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
        The output of this line has no spaces at the beginning.
 
-**Lista numerowana**
+Lista numerowana
+~~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -136,18 +138,20 @@ Akapit tekstowy
 #. Element 1
 #. Element 2
 
-**Lista wypunktowana**
+Lista wypunktowana
+~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 
-   *Element 1
-   *Element 2
+   * Element 1
+   * Element 2
    itd...
 
-*Element 1
-*Element 2
+* Element 1
+* Element 2
 
-**Lista definicji**
+Lista definicji
+~~~~~~~~~~~~~~~
 
 .. code-block::
 
@@ -157,19 +161,22 @@ Akapit tekstowy
 Określenie
    Definicja
          
-**Obraz**
+Obraz
+~~~~~
 
 .. code-block::
 
        The output of this line has no spaces at the beginning.
 
-**Tabela z danymi**
+Tabela z danymi
+~~~~~~~~~~~~~~~
 
 .. code-block::
 
        The output of this line has no spaces at the beginning.
 
-**Lista Zadań wykonanych i niewykonanych**
+Lista Zadań wykonanych i niewykonanych
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block::
 

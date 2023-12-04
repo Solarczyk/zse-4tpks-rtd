@@ -7,8 +7,8 @@ pozwala nam na łatwe utworzenie strony z dokumentacją. Dzięki
 Read The Docs tworzenie dokumentacji jest jak tworzenie dokumentacji, ale
 na platformie Read The Docs. 
 
-Odwiedź stronę :doc:`Składnia RtD` by poznać składnię programu Read the docs
-
+Spis treści
+-----------
 
 .. toctree::
    :maxdepth: 1

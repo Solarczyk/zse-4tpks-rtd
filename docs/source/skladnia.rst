@@ -90,12 +90,21 @@ Fragment kodu - blokowy
 
           Fragment kodu
 
+.. _etykieta:
+
 Odnośnik wewnętrzny (w obrębie dokumentacji)
 --------------------------------------------
 
 .. code-block::
 
-       The output of this line has no spaces at the beginning.
+       .. _etykieta:
+
+            Section to cross-reference
+            --------------------------
+            
+      Odnośnik do sekcji :ref:`etykieta`.
+
+Odnośnik wewnętrzny :ref:`etykieta`.
 
 Odnośnik zewnętrzny (do innego serwisu)
 ---------------------------------------

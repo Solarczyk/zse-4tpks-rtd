@@ -99,12 +99,12 @@ Odnośnik wewnętrzny (w obrębie dokumentacji)
 
        .. _etykieta:
 
-            Section to cross-reference
-            --------------------------
+            Sekcja do odniesienia
+            ---------------------
             
-      Odnośnik do sekcji :ref:`etykieta`.
+      Odnośnik do sekcji :ref:`tekst odnośnika<etykieta>'.
 
-Odnośnik wewnętrzny :ref:`etykieta`.
+Odnośnik wewnętrzny: :ref:`odnośnik<etykieta>`.
 
 Odnośnik zewnętrzny (do innego serwisu)
 ---------------------------------------

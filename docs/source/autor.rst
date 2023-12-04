@@ -1,5 +1,5 @@
-Autor
-=====
+O Autorze
+=========
 
 
 **Krzysztof Solarczyk 4tp**

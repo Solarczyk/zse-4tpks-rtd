@@ -102,7 +102,9 @@ Odnośnik zewnętrzny (do innego serwisu)
 
 .. code-block::
 
-       The output of this line has no spaces at the beginning.
+   `Tekst odnośnika <link>`_
+
+`Tekst odnośnika <https://github.com/Solarczyk/zse-docs-gh/wiki/Spis-tre%C5%9Bci>`_
 
 Lista numerowana
 ----------------
@@ -163,11 +165,18 @@ Tabela z danymi
 
 .. code-block::
 
-       The output of this line has no spaces at the beginning.
+       ======== ========
+       Kolumna1 Kolumna2
+       ======== ========
+       Element1 Element1
+       Element2 Element2
+       Element3 Element3
+       ======== ========
 
-Lista Zadań wykonanych i niewykonanych
---------------------------------------
-
-.. code-block::
-
-       The output of this line h
+======== ========
+Kolumna1 Kolumna2
+======== ========
+Element1 Element1
+Element2 Element2
+Element3 Element3
+======== ========

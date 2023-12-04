@@ -144,7 +144,19 @@ Obraz
 
 .. code-block::
 
-       The output of this line has no spaces at the beginning.
+   .. figure:: ścieżka do zdjęcia
+      :width: x%
+      :align: center
+      :alt: tekst alternatywny
+
+      Podpis pod obrazkiem
+
+.. figure:: examp.png
+   :width: 80%
+   :align: center
+   :alt: tekst alternatywny
+
+   Podpis pod obrazkiem
 
 Tabela z danymi
 ---------------
